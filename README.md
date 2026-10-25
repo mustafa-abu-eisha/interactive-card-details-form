@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/interactive-card-details-form)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/interactive-card-details-form)
 - [Live Site URL Here](https://interactive-card-details-form-live.pages.dev/)
 
 ## My process
@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- [GitHub Profile](https://github.com/AbuEisha)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/AbuEisha)
+- [GitHub Profile](https://github.com/mustafa-abu-eisha)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
